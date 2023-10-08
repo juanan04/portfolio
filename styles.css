@@ -29,6 +29,18 @@ nav {
     z-index: 30;
 }
 
+.lenguage__icon__spain {
+  width: 3em;
+  height: 2em;
+  padding-top: 20px;
+}
+
+.lenguage__icon__england {
+  width: 2em;
+  height: 2em;
+  padding-top: 20px;
+}
+
 nav img#logo {
     width: 5em;
     margin-top: 10px;
